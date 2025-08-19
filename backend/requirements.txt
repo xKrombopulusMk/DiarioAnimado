@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+pytest
+requests
+spacy
+transformers
+gTTS
+moviepy
+celery
+redis

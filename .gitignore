@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+node_modules/
+frontend/dist/
+storage/episodes/*.mp4
+storage/episodes/*.mp3
